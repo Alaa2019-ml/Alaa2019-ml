@@ -80,14 +80,15 @@ some of my favorite projects have no serious purpose…
 
 ---
 ## 📌 Pinned Projects
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack |  Demo |
 |---------|-------------|------------|-----------|
-| [🌤️ Weather App](https://github.com/yourusername/weather-app) | Real-time weather dashboard for any city | React, OpenWeather API, CSS Modules | [View Live](https://your-demo-link.com) |
-| [✅ Task Manager](https://github.com/yourusername/task-manager) | Full-stack task manager with auth | React, Node.js, PostgreSQL | [View Live](https://your-demo-link.com) |
-| [🛒 E-Commerce API](https://github.com/yourusername/ecommerce-api) | RESTful API for an online store | Node.js, Express, MongoDB | — |
+| [Study Bridge](https://github.com/HackYourFutureProjects/StudyBridge) | Platform connecting students with tutors for learning and teaching. | React, Node.js, TypeScript, Express, MongoDb  | [View Live](https://c54a.hyf.dev/) |
+| [Service Finder](https://github.com/Alaa2019-ml/serviceFinder) | Service discovery platform where users select a service and city to view top-rated providers based on user reviews. | React(Vite) | - |
+| [Time Capsule](https://github.com/Alaa2019-ml/Time-Capsule) | Interactive web app that lets users select a past date to explore songs, movies, news, and weather from that specific day. | RESTful API, JavaScript  | [View Live](https://www.loom.com/share/58a5e1f146af48d596a65bd6d1daec40) |
 > 💡 *Replace these with your actual pinned repos. Keep 4–6 of your best projects.*
 ---
 ## 📊 GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
 > 💡 *Replace `yourusername` with your actual GitHub username.*
@@ -96,30 +97,6 @@ some of my favorite projects have no serious purpose…
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:angnm38@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-> ⚠️ *Do NOT add Facebook, Instagram, or any personal social media links here.*
+
 ---
-<!--
-============================================
-  HOW TO USE THIS TEMPLATE
-============================================
-1. Create a new repository with the EXACT same name as your GitHub username
-2. Copy this entire file and paste it as the README.md in that repo
-3. Replace all placeholder text:
-   - [Your Name] → your real name
-   - [Your School/Bootcamp] → where you're studying
-   - yourusername → your GitHub username
-   - Update the tech stack badges to match YOUR skills
-   - Replace the pinned projects table with YOUR repos
-   - Update all contact links
-4. Delete all the 💡 tip lines and this comment block when you're done
-5. Commit and push — your profile README is now live!
-CHECKLIST before publishing:
-  ☐ Photo is uploaded in GitHub settings (not in this file)
-  ☐ Bio is filled in GitHub settings
-  ☐ All placeholder text is replaced
-  ☐ Tech badges match your actual skills
-  ☐ Project links work
-  ☐ Contact links are correct
-  ☐ No Facebook/Instagram/personal social links
-  ☐ No religious or political content
--->
+
