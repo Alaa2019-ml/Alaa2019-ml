@@ -85,13 +85,13 @@ some of my favorite projects have no serious purpose…
 | [Study Bridge](https://github.com/HackYourFutureProjects/StudyBridge) | Platform connecting students with tutors for learning and teaching. | React, Node.js, TypeScript, Express, MongoDb  | [View Live](https://c54a.hyf.dev/) |
 | [Service Finder](https://github.com/Alaa2019-ml/serviceFinder) | Service discovery platform where users select a service and city to view top-rated providers based on user reviews. | React(Vite) | - |
 | [Time Capsule](https://github.com/Alaa2019-ml/Time-Capsule) | Interactive web app that lets users select a past date to explore songs, movies, news, and weather from that specific day. | RESTful API, JavaScript  | [View Live](https://www.loom.com/share/58a5e1f146af48d596a65bd6d1daec40) |
-> 💡 *Replace these with your actual pinned repos. Keep 4–6 of your best projects.*
+
 ---
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
-> 💡 *Replace `yourusername` with your actual GitHub username.*
+
 ---
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
