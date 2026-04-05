@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:2D2F45,100:9F7AEA&height=220&section=header&text=Alaa&fontSize=55&fontColor=EAEAF0&animation=fadeIn&fontAlignY=35&desc=building%20for%20that%20moment%20it%20works%20%E2%80%94%20and%20the%20smile%20after&descSize=16&descAlignY=55" />
 </p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100000&color=C9B6FF&center=true&vCenter=true&width=900&lines=A+passionate+junior+software+developer" />
-</p>
+    <p align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100000&color=C9B6FF&center=false&vCenter=true&width=600&lines=A+passionate+junior+software+developer" />
+    </p>
 For me, coding isn’t about how big or complex a project is.
 It’s about creating something that does something — even if that something is just making someone smile for a second.
 
